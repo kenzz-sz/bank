@@ -125,81 +125,6 @@
         },
         "badge": [],
         "payment": []
-      },
-      "kez": {
-        "username": "kez",
-        "password": "kez",
-        "moneybank": 2,
-        "status": "logined",
-        "settings": {
-          "abbreviation": 2
-        },
-        "chatid": "global",
-        "chat": {
-          "global": {
-            "role": "member",
-            "cansend": true
-          }
-        },
-        "inventory": [
-          {
-            "count": 2,
-            "name": "FToken",
-            "author": "Deb",
-            "price": 1,
-            "des": "Token",
-            "typeitem": "Quest",
-            "discount": 0,
-            "lastgived": ""
-          }
-        ],
-        "discount": 0,
-        "mybank": {
-          "id": ""
-        },
-        "quest": {
-          "lvl": 1,
-          "qnav": 0,
-          "qnbv": 0
-        },
-        "profile": {
-          "like": 0,
-          "liked": {}
-        },
-        "badge": [],
-        "payment": []
-      },
-      "im": {
-        "username": "im",
-        "password": "im",
-        "moneybank": 0,
-        "status": "signup",
-        "settings": {
-          "abbreviation": 2
-        },
-        "chatid": "global",
-        "chat": {
-          "global": {
-            "role": "member",
-            "cansend": true
-          }
-        },
-        "inventory": [],
-        "discount": 0,
-        "mybank": {
-          "id": ""
-        },
-        "quest": {
-          "lvl": 0,
-          "qnav": 0,
-          "qnbv": 0
-        },
-        "profile": {
-          "like": 0,
-          "liked": {}
-        },
-        "badge": [],
-        "payment": []
       }
     }
   },
@@ -234,13 +159,7 @@
   {
     "global": {
       "by": "system",
-      "directory": [
-        {
-          "text": "hellp",
-          "username": "| im",
-          "realusername": "im"
-        }
-      ],
+      "directory": [],
       "name": "global"
     },
     "not": {
