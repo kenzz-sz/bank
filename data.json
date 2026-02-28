@@ -234,7 +234,13 @@
   {
     "global": {
       "by": "system",
-      "directory": [],
+      "directory": [
+        {
+          "text": "hellp",
+          "username": "| im",
+          "realusername": "im"
+        }
+      ],
       "name": "global"
     },
     "not": {
