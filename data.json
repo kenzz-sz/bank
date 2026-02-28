@@ -130,7 +130,7 @@
         "username": "kez",
         "password": "kez",
         "moneybank": 2,
-        "status": "signup",
+        "status": "logined",
         "settings": {
           "abbreviation": 2
         },
