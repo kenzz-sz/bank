@@ -125,6 +125,49 @@
         },
         "badge": [],
         "payment": []
+      },
+      "kez": {
+        "username": "kez",
+        "password": "kez",
+        "moneybank": 2,
+        "status": "logined",
+        "settings": {
+          "abbreviation": 2
+        },
+        "chatid": "global",
+        "chat": {
+          "global": {
+            "role": "member",
+            "cansend": true
+          }
+        },
+        "inventory": [
+          {
+            "count": 2,
+            "name": "FToken",
+            "author": "Deb",
+            "price": 1,
+            "des": "Token",
+            "typeitem": "Quest",
+            "discount": 0,
+            "lastgived": ""
+          }
+        ],
+        "discount": 0,
+        "mybank": {
+          "id": ""
+        },
+        "quest": {
+          "lvl": 1,
+          "qnav": 0,
+          "qnbv": 0
+        },
+        "profile": {
+          "like": 0,
+          "liked": {}
+        },
+        "badge": [],
+        "payment": []
       }
     }
   },
