@@ -173,7 +173,7 @@
         "username": "im",
         "password": "im",
         "moneybank": 0,
-        "status": "signup",
+        "status": "logined",
         "settings": {
           "abbreviation": 2
         },
