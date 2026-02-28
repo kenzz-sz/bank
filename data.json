@@ -129,7 +129,7 @@
       "kez": {
         "username": "kez",
         "password": "kez",
-        "moneybank": 0,
+        "moneybank": 2,
         "status": "signup",
         "settings": {
           "abbreviation": 2
@@ -141,13 +141,24 @@
             "cansend": true
           }
         },
-        "inventory": [],
+        "inventory": [
+          {
+            "count": 2,
+            "name": "FToken",
+            "author": "Deb",
+            "price": 1,
+            "des": "Token",
+            "typeitem": "Quest",
+            "discount": 0,
+            "lastgived": ""
+          }
+        ],
         "discount": 0,
         "mybank": {
           "id": ""
         },
         "quest": {
-          "lvl": 0,
+          "lvl": 1,
           "qnav": 0,
           "qnbv": 0
         },
