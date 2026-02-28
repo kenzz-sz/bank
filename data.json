@@ -244,6 +244,11 @@
           "text": "hi",
           "username": "| kez",
           "realusername": "kez"
+        },
+        {
+          "text": "pew",
+          "username": "| kez",
+          "realusername": "kez"
         }
       ],
       "name": "global"
