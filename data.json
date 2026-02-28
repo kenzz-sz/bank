@@ -168,6 +168,38 @@
         },
         "badge": [],
         "payment": []
+      },
+      "im": {
+        "username": "im",
+        "password": "im",
+        "moneybank": 0,
+        "status": "signup",
+        "settings": {
+          "abbreviation": 2
+        },
+        "chatid": "global",
+        "chat": {
+          "global": {
+            "role": "member",
+            "cansend": true
+          }
+        },
+        "inventory": [],
+        "discount": 0,
+        "mybank": {
+          "id": ""
+        },
+        "quest": {
+          "lvl": 0,
+          "qnav": 0,
+          "qnbv": 0
+        },
+        "profile": {
+          "like": 0,
+          "liked": {}
+        },
+        "badge": [],
+        "payment": []
       }
     }
   },
